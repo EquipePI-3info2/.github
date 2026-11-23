@@ -16,7 +16,7 @@ Equipe:
 Links do projeto:
 -   [Documentação (esse documento)](https://github.com/EquipePI-3info2/DocumentacaoBrookie)
 -   Backend: [Repositório](https://github.com/EquipePI-3info2/backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/EquipePI-3info2/frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/EquipePI-3info2/frontend) e [Publicação]((https://frontend-brookie.vercel.app/)/)
 
 # 1. Desenvolvimento
 O sistema desenvolvido neste projeto se enquadra no modelo de Ponto de Vendas (PDV) aplicado ao comércio eletrônico.
